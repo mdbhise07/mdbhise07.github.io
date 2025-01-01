@@ -170,10 +170,10 @@ body {
     padding: 0;
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: cover;
+    background-size: contain;
     position: absolute;
     opacity: 0;
-    animation: slideUP 1s ease forwards;
+    animation: slideDOWN 1s ease forwards;
     animation-delay: 1s;
 }
 
