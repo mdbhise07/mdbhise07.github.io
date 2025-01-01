@@ -165,7 +165,7 @@ body {
 .img {
     display: inline-block;
     left: 55%;
-    bottom: 15%;
+    bottom: 10%;
     margin-right: 5%;
     padding: 0;
     background-repeat: no-repeat;
@@ -179,7 +179,7 @@ body {
 
 .responsive {
     width: 100%;
-    height: 30rem;
+    height: 20rem;
     border-top-left-radius: 251px;
     border-top-right-radius: 251px;
     border-bottom-left-radius: 251px;
